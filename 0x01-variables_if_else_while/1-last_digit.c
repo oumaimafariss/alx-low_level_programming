@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - print the last random number to the variable n each time it is executed
- *         and  know wherther it's greather than 5, equal to 0 or less than 6 and not 0
+ * main - print the last random number to the variable n
+ *  each time it is executed and  know wherther it's
+ *  greather than 5, equal to 0 or less than 6 and not 0
  *
  * Return:  0.
 */
