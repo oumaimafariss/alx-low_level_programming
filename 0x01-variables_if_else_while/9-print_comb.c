@@ -14,8 +14,8 @@ int main(void)
 		putchar((nb % 10) + '0');
 		if (nb == 9)
 			continue;
-		putchar(' ');
 		putchar(',');
+		putchar(' ');
 	}
 
 	putchar('\n');
