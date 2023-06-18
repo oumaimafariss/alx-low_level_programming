@@ -4,7 +4,7 @@
 
 /**
  * main - assign a random number to the variable n each time it is executed.
-          and states whether it is positive, negative, or zero.
+ *         and states whether it is positive, negative, or zero.
  *
  * Return: Always 0.
 */
