@@ -1,0 +1,1 @@
+first project of pointers_arrays_strings
